@@ -14,3 +14,7 @@ The Set Coil remains true until the reset coil returns the set coil back to fals
 If both the set and reset coils are true then the last coil that is scanned determines the logic.
 
 Reference- https://www.youtube.com/watch?v=rv0ihEmSZ6Y
+
+# XOR GATE
+
+A simple XOR gate in Ladder Logic made with OpenPLC Editor
