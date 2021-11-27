@@ -18,3 +18,9 @@ Reference- https://www.youtube.com/watch?v=rv0ihEmSZ6Y
 # XOR GATE
 
 A simple XOR gate in Ladder Logic made with OpenPLC Editor
+
+# First_LD_program
+
+This is the first ladder logic program that I wrote in OpenPLC Editor. This is based on the getting started exercise found here: https://www.openplcproject.com/reference/basics/first-project
+
+I learned how to make variables and simple Ladder Logic programs using the OpenPLC Editor. ALso, I learned how to compile a program and use OpenPLC Runtime.
